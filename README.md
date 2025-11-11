@@ -24,7 +24,7 @@ No installation required — works on any modern web browser.
 
 1. Clone or download the project files:  
   ```bash
-  git clone <repository-url>
+  git clone https://github.com/rishabkumar03/Birthday-gift-site
   cd birthday-gift-site
   ```
 2. Place all image and GIF files (`bunnu.jpg`, `gift-cover.jpg`, etc.) in the same folder as the HTML file.
